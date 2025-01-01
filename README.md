@@ -5,7 +5,7 @@ A passionate Web Developer, Data Scientist from India.
 
 ### 🕵‍♂️ About Me:
 
-- 📈 Currently working on **an AI Project**
+- 📈 Currently working on **SnackTrack**
 - 🌿 Currently learning **Artificial Intelligence**
 - 📥 How to reach me: [xaviererick879@gmail.com](mailto:xaviererick879@gmail.com)
 
@@ -53,11 +53,6 @@ HTML, CSS, JS, ExpressJs, Java, Python, NodeJs
 HTML, CSS, ExpressJs, NodeJs
 
 ---
-
-### 🌟 Fun Facts:
-
-- ☕ I love coffee.
-- 🎮 When I'm not coding, I enjoy travelling.
 
 
 
