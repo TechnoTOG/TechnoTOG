@@ -5,8 +5,8 @@ A passionate Web Developer, Data Scientist from India.
 
 ### 🕵‍♂️ About Me:
 
-- 📈 Currently working on **SnackTrack and Savishkaara Control Panel**
-- 🌿 Currently learning **Artificial Intelligence**
+- 📈 Currently working on **Smart-Desk Assistant**
+- 🌿 Interested in **CyberSecurity and AI**
 - 📥 How to reach me: [xaviererick879@gmail.com](mailto:xaviererick879@gmail.com)
 
 ### 🔗 Connect with Me:
